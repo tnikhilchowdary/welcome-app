@@ -20,7 +20,7 @@ A simple and elegant React application that toggles between **Subscribe** and **
 
 ## Preview
 
-![App Demo](./src/screenshot.png)
+![App Demo](./src/subscribed.png)
 
 ---
 
